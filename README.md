@@ -27,8 +27,10 @@
 
 
 
+![ex1](https://github.com/user-attachments/assets/4efa6b16-d74d-4502-b2bb-6dd3418c07fa)
 
-
+**calculation**
+![ex1b](https://github.com/user-attachments/assets/66533049-275b-458e-8c0a-65fd803cf6e1)
 
 
 
