@@ -25,6 +25,12 @@
 **CIRCUIT DIAGRAM:**
 
 
+![ex1](https://github.com/user-attachments/assets/120c99fc-3a35-4227-955c-3b7097eb9590)
+**Tabulation and calculation:**
+
+![ex1a](https://github.com/user-attachments/assets/30f891f6-ea69-4e2b-92c5-50222e56903d)
+![ex1b](https://github.com/user-attachments/assets/7a0d96a1-3b4a-4d06-831c-5089f9581d70)
+
 
 
 
