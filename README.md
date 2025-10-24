@@ -24,6 +24,11 @@
 
 **CIRCUIT DIAGRAM:**
 
+![ex1](https://github.com/user-attachments/assets/fbe5dbfc-567d-4e0f-9cd5-8a038952ff84)
+
+![ex1a](https://github.com/user-attachments/assets/929925b0-0d34-476b-a15b-06aad1e2df60)
+
+![ex1b](https://github.com/user-attachments/assets/61ea4c25-9ab7-475d-9bb6-1dc658305c79)
 
 
 
